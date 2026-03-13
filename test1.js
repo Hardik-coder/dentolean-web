@@ -1,9 +1,9 @@
 const texts = [
-  "Welcome to Our Website",
-  "Discover Amazing Benefits",
-  "Check Out Specifications",
-  "Learn How It Works",
-  "Get in Touch Today"
+  
+  "Zero-Waste Footprint",
+  "Unmatched Freshness",
+  "100% Pure & Safe",
+  
 ];
 
 let index = 0;
