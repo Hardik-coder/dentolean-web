@@ -102,6 +102,12 @@ html {
   margin-bottom: 15px;
 }
 
+.feature-icon {
+  font-size: 3rem;
+  color: #0e2c44;
+  margin-bottom: 15px;
+}
+
 .video-heading {
   color: #0e2c44;
   font-weight: 700;
@@ -133,6 +139,19 @@ html {
   max-height: 400px; /* keeps image balanced */
   object-fit: contain;
 }
+.about-heading {
+  color: #0e2c44;
+  font-weight: 700;
+  font-size: 2rem;
+}
+
+.about-description {
+  color: #0e2c44;
+  font-size: 1.1rem;
+  line-height: 1.6;
+  max-width: 800px; /* keeps text comfortably readable */
+}
+
 .footer {
   background-color: #ffffff;
   border-top: 1px solid #eaeaea;
